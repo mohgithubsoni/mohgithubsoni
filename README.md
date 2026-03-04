@@ -13,7 +13,7 @@
 - 🎓 5-Year Integrated M.Tech in Computer Science (3rd Year)
 - 💻 Currently focusing on **Data Structures & Algorithms**
 - 🤖 Exploring **Machine Learning & Legal-BERT research**
-- 🔍 Interested in Systems, AI, and Real-World Problem Solving
+- 🔍 Interested in Systems, AI, and Real-World Problem Solving.
 - 📈 Completed **100 Days of Code (DSA focused)**
 
 ---
