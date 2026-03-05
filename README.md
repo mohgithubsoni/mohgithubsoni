@@ -56,10 +56,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohgithubsoni&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohgithubsoni&show_icons=true&theme=radical"/>
 </p>
-
 ---
 
 ## 🤝 Connect With Me
