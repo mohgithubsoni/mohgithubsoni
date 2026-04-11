@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Mohit 👋</h1>
 
-<h3 align="center">AI & GenAI Enthusiast | Problem Solver | Engineering Student</h3>
+<h3 align="center">
+AI & GenAI Enthusiast | Engineering Student | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=AI+%26+GenAI+Explorer;Prompt+Engineering;RAG+%7C+LLMs;Python+%7C+DSA;Building+Real+World+AI+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=GenAI+%26+LLMs;Prompt+Engineering;RAG+Systems;Python+%7C+DSA;Building+AI-Driven+Applications">
 </p>
 
 ---
@@ -12,77 +14,84 @@
 
 - 🎓 Integrated M.Tech in Computer Science  
 - 🤖 Exploring **GenAI, RAG, Prompt Engineering & AI Automation**  
-- 🧠 Working on **AI-driven systems & intelligent automation**  
+- 🧠 Working on **LLM-powered systems & intelligent automation**  
 - 💡 Interested in AI Enablement, ML, and System Design  
-- 🔥 100+ DSA problems solved | Building AI-first projects  
-
----
-
-## 🧠 What I’m Working On
-
-- 🧩 Building **RAG pipelines & LLM applications**
-- ⚙️ Automating workflows using **AI + no-code tools**
-- 📚 Exploring **Prompt Engineering & Agentic AI**
-- 🏗️ Creating AI tools that improve developer productivity
+- 🔥 100+ DSA problems solved & building real-world AI projects  
 
 ---
 
 ## 🛠 Tech & AI Stack
 
-### 🤖 AI / GenAI
-- LLMs | RAG | Prompt Engineering  
-- LangChain | Vector DBs (FAISS/Chroma)  
-- AI-assisted development & automation  
+### 👨‍💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2D3E4D?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### 💻 Programming & Backend
-- Python | Java | SQL  
-- FastAPI | REST APIs  
-- Data Pipelines & ETL  
+### 🤖 AI / GenAI / ML
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-00897B?style=for-the-badge"/>
+</p>
 
-### 📊 Data & ML
-- Pandas | NumPy | Scikit-learn  
-- ML Pipelines | Feature Engineering  
+### 📊 Data & ML Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-### ☁️ Tools & Platforms
-- Git | Docker | Linux  
-- Oracle Cloud | AWS (Basics)  
-- n8n (Automation)
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 - 🔎 **RAG-Based Document QA System**  
-  → Built an end-to-end RAG pipeline for intelligent document search using LLMs and vector databases.
+  Built a RAG pipeline enabling semantic search and AI-assisted document Q&A.
 
 - ⚖️ **Legal Document Classifier**  
-  → Trained ML models to classify legal documents into issues, judgments, conclusions, and involved parties.
+  Trained ML models to classify legal documents into issues, judgments, conclusions & entities.
 
 - 📊 **AI-Assisted Analytics Dashboard**  
-  → Automated data pipelines & insights generation for business analytics.
+  Built automated pipelines for data insights & reporting.
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohgithubsoni&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mohgithubsoni&show_icons=true&theme=radical"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohgithubsoni&theme=react-dark"/>
+</p>
+
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mohitsonii128">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Mindset
+## ⚡ Philosophy
 
-> Build. Break. Learn. Improve.  
+> Build. Learn. Improve.  
 > Real skills > Hype.
