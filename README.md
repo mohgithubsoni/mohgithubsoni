@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Mohit 👋</h1>
 
 <h3 align="center">
-AI & GenAI Enthusiast | Engineering Student | Problem Solver
+AI & GenAI Enthusiast | Engineering Student | Problem Solver | Software Engineering | Development
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=GenAI+%26+LLMs;Prompt+Engineering;RAG+Systems;Python+%7C+DSA;Building+AI-Driven+Applications">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=GenAI+%26+LLMs;Prompt+Engineering;RAG+Systems;Python+%7C+DSA;Building+AI-Driven+Applications; C++">
 </p>
 
 ---
