@@ -5,7 +5,7 @@ AI & GenAI Enthusiast | Engineering Student | Problem Solver | Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=GenAI+%26+LLMs;Prompt+Engineering;RAG+Systems;Python+%7C+DSA;Building+AI-Driven+Applications; C++">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=GenAI+%26+LLMs;Prompt+Engineering;RAG+Systems;Python+%7C+DSA;Building+AI-Driven+Applications">
 </p>
 
 ---
