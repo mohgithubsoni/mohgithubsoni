@@ -20,38 +20,49 @@ AI & GenAI Enthusiast | Engineering Student | Problem Solver | Software Engineer
 
 ---
 
-## 🛠 Tech & AI Stack
+## 🛠 Tech & AI Stack  
 
-### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-2D3E4D?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 👨‍💻 Programming Languages  
+<p align="center">  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Python-2D3E4D?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>  
+</p>  
 
-### 🤖 AI / GenAI / ML
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-00897B?style=for-the-badge"/>
-</p>
+### 🤖 AI / GenAI / ML  
+<p align="center">  
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/LangChain-00897B?style=for-the-badge"/>  
+</p>  
 
-### 📊 Data & ML Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+### 📊 Data & ML Tools  
+<p align="center">  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>  
+</p>  
 
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
-</p>
+### ⚙️ Tools & Platforms  
+<p align="center">  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>  
+</p>  
+
+### 🧠 Core CS Fundamentals  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Data%20Structures-1E88E5?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/Algorithms-43A047?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/OOPs-F57C00?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/Operating%20Systems-6A1B9A?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/DBMS-00838F?style=for-the-badge"/>  
+</p>  
 
 ---
 
